@@ -1,5 +1,5 @@
 ---
-title: Tina Cloud Starter
+title: Tune Tech Blog
 blocks:
   - headline: Welcome to the Tina Starter
     text: >
@@ -56,6 +56,4 @@ blocks:
     color: primary
     _template: testimonial
 ---
-
-
 
