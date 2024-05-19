@@ -1,7 +1,7 @@
 ---
 title: Tune Tech Blog
 blocks:
-  - headline: Welcome Tune Tech Blog
+  - headline: Welcome to Tune Tech Blog
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
