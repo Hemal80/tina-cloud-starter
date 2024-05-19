@@ -1,4 +1,4 @@
-# Tina Starter 🦙
+# Makeing a blog using Tina Starter 🦙
 
 ![tina-cloud-starter-demo](https://user-images.githubusercontent.com/103008/130587027-995ccc45-a852-4f90-b658-13e8e0517339.gif)
 
